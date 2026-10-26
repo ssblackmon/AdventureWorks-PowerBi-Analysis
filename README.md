@@ -13,6 +13,22 @@ The analysis focuses on three key business questions:
 
 3.  How can adjustments to sales quantity, pricing, discounts, and product costs influence profitability?
 
+## Business Problem
+AdventureWorks needed to evaluate its historical sales performance to understand which products generated the greatest revenue, sales volume, and profitability.
+
+Although certain products maintained strong revenue performance, their relative contributions to company revenue changed over time, raising questions about product growth, revenue diversification, and profitability.
+
+This analysis addresses three key business questions:
+
+1. Which products generate the highest sales volume, revenue, and profit?
+
+2. How have product performance and revenue contributions changed year over year?
+
+3. How can changes in selling price, product cost, and sales quantity influence profitability?
+
+The objective was to use historical sales data and interactive scenario analysis to identify performance trends, investigate potential profitability challenges, and support evidence-based business decisions.
+
+
 To address these questions, I developed a three-page Power BI report combining executive performance monitoring, year-over-year sales analysis, and an interactive product profitability simulator.
 
 The project demonstrates my ability to translate business questions into analytical solutions and communicate findings that support data-driven decision-making.
@@ -86,7 +102,8 @@ For Mountain-400 W Silver 38:
 
 Under these assumptions, increasing sales quantity by approximately 30.1% allows projected profit to recover and slightly exceed historical profit.
 
-Business Recommendation: Before implementing the proposed sales expansion, management should evaluate customer demand, production capacity, and logistical feasibility. Financial projections alone do not establish operational viability.
+## Business Recommendation:
+Before implementing the proposed sales expansion, management should evaluate customer demand, production capacity, and logistical feasibility. Financial projections alone do not establish operational viability.
 
 
 
