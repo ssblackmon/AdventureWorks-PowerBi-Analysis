@@ -5,14 +5,6 @@
 This project analyzes AdventureWorks sales and product performance using Microsoft Power BI.
 The objective is to transform historical sales data into actionable business insights through interactive dashboards, profitability analysis, and scenario modeling.
 
-The analysis focuses on three key business questions:
-
-1.  Which product models contribute the most to revenue, profit, and sales volume?
-
-2.  How has sales performance changed over time, and what factors explain those changes?
-
-3.  How can adjustments to sales quantity, pricing, discounts, and product costs influence profitability?
-
 ## Business Problem
 AdventureWorks needed to evaluate its historical sales performance to understand which products generated the greatest revenue, sales volume, and profitability.
 
