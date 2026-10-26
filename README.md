@@ -46,4 +46,51 @@ Examines year-over-year sales performance, revenue trends, and changes in produc
 
 An interactive What-If analysis that evaluates how changes in sales quantity, discounts, and product costs influence projected profitability.
 
+## Key Business Insights
+
+### 1. Revenue Leadership vs. Sales Volume
+
+AdventureWorks generated approximately $24.91 million in revenue and $10.46 million in profit, achieving a 41.97% profit margin.
+
+Mountain-200 emerged as the leading product model by revenue and profit, while Water Bottle led in units sold.
+
+Business Insight: High sales volume does not necessarily translate into high revenue or profitability. Product pricing, costs, and sales quantities must be evaluated together.
+
+### 2. Year-over-Year Performance and Revenue Diversification
+Comparing January–June 2021 with the same period in 2022 revealed that Mountain-200:
+
+Maintained its number-one revenue ranking.
+
+Increased revenue by approximately 114.75%.
+
+Experienced a decline in its share of company revenue from 46.82% to 32.32%.
+
+Business Insight: Although Mountain-200 strengthened its absolute revenue performance, its relative contribution declined as other products grew. This indicates a more diversified revenue mix.
+
+### 3. Product Profitability and Scenario Analysis
+An interactive profitability simulator was developed to evaluate how changes in sales quantity, discounts, and product costs affect projected profit.
+
+For Mountain-400 W Silver 38:
+
+- Historical sales quantity: 146 units
+
+- Projected sales quantity: 190 units
+
+- Discount assumption: 5%
+
+- Cost-change assumption: 10%
+
+- Historical profit: approximately $51,060
+
+- Projected profit: approximately $51,160
+
+Under these assumptions, increasing sales quantity by approximately 30.1% allows projected profit to recover and slightly exceed historical profit.
+
+Business Recommendation: Before implementing the proposed sales expansion, management should evaluate customer demand, production capacity, and logistical feasibility. Financial projections alone do not establish operational viability.
+
+
+
+
+
+
 
